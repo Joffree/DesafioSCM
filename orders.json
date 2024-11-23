@@ -1,0 +1,40 @@
+[
+    {
+        "fornecedor": "DELL",
+        "data": "2024-11-22",
+        "produtos": "Mortadela",
+        "valorUnitario": "15",
+        "quantidade": "10",
+        "valorTotal": "150",
+        "status": "Pendente"
+    },
+    {
+        "fornecedor": "HBO",
+        "data": "2024-12-03",
+        "produtos": "Mortadela",
+        "valorUnitario": "15",
+        "quantidade": "10",
+        "valorTotal": "150",
+        "status": "Pendente"
+    },
+    {
+        "fornecedor": "HBO",
+        "data": "2024-11-07",
+        "produto": "SERVIDOR HPE DL20 GEN10 1P E-2236 3.4G",
+        "codigo_produto": "99005356",
+        "valorUnitario": 8580,
+        "quantidade": "5",
+        "valorTotal": "R$ 42.900,00",
+        "status": "Pendente"
+    },
+    {
+        "fornecedor": "DELL",
+        "data": "2024-11-12",
+        "produto": "SCANNER EPSON PERFECTION V19 Serial",
+        "codigo_produto": "99004482",
+        "valorUnitario": 748.23,
+        "quantidade": "5",
+        "valorTotal": "R$ 3.741,15",
+        "status": "Pendente"
+    }
+]
