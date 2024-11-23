@@ -1,20 +1,28 @@
 body {
-  background-image: url('');
+  background-image: url('http://localhost:3000/BD112.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   margin: 0;
   padding: 0;
   font-family: Arial, sans-serif;
+  min-height: 100vh; /* Garante que o fundo cubra toda a altura da tela */
+  display: flex;
+  flex-direction: column;
+}
+
+#root {
+  flex: 1; /* Faz com que o conteúdo principal ocupe o espaço disponível */
 }
 
 .app-container {
-  max-width: 800px;
+  max-width: 1000px; /* Ajuste a largura máxima conforme necessário */
   margin: 0 auto;
   padding: 20px;
   background-color: rgba(255, 255, 255, 0.9); /* Fundo branco com transparência */
   border-radius: 8px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  overflow: hidden; /* Removido para permitir que o conteúdo se expanda */
 }
 
 .app-header {
