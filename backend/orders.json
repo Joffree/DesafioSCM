@@ -1,0 +1,32 @@
+[
+    {
+        "fornecedor": "DELL",
+        "data": "2024-11-13",
+        "produto": "SCANNER EPSON PERFECTION V19 Serial",
+        "codigo_produto": "99004482",
+        "valorUnitario": 748.23,
+        "quantidade": "13",
+        "valorTotal": "R$ 9.726,99",
+        "status": "Pendente"
+    },
+    {
+        "fornecedor": "DELL",
+        "data": "2024-11-21",
+        "produto": "SERVIDOR HPE DL20 GEN10 1P E-2236 3.4G",
+        "codigo_produto": "99005356",
+        "valorUnitario": 8580,
+        "quantidade": "16",
+        "valorTotal": "R$ 137.280,00",
+        "status": "Pendente"
+    },
+    {
+        "fornecedor": "HBO",
+        "data": "2024-12-04",
+        "produto": "SERVIDOR HPE DL20 GEN10 1P E-2236 3.4G",
+        "codigo_produto": "99005356",
+        "valorUnitario": 8580,
+        "quantidade": "96",
+        "valorTotal": "R$ 823.680,00",
+        "status": "Pendente"
+    }
+]
